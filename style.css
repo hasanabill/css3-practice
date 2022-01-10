@@ -3,27 +3,6 @@ body{
     background-color: rgb(243, 238, 230);
     font-family: 'Roboto', sans-serif;
 }
-/* Navigation */
-.topsec{
-    background-color: rgb(83, 83, 83);
-    height: 60px;
-    padding-top: 40px;
-    padding-right: 40px;
-}
-.topnav{
-    float: right;
-}
-.nav-a{
-    text-decoration: none;
-    color: rgb(209, 205, 205);
-    padding: 10px 20px;
-    border-radius: 8px;
-    font-size: 20px;
-}
-.nav-a:hover{
-    color: rgb(233, 224, 212);
-    background-color: black;
-}
 .flexi{
     display: flex;
     margin-bottom: 200px;

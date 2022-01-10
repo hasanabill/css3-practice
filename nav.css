@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    background-color: rgb(243, 238, 230);
+    font-family: 'Roboto', sans-serif;
+}
+/* Navigation */
+.topsec{
+    display: flex;
+    background-color: rgb(168, 164, 164);
+    height: 70px;
+    padding-right: 40px;
+}
+.topnav{
+    padding-left: 800px;
+    padding-top: 25px;
+}
+.logo{
+    width: 130px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+}
+.nav-a{
+    text-decoration: none;
+    color: rgb(39, 37, 37);
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-size: 20px;
+}
+.nav-a:hover{
+    color: rgb(233, 224, 212);
+    background-color: black;
+}
