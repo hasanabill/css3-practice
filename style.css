@@ -1,0 +1,140 @@
+body{
+    margin: 0;
+    background-color: rgb(243, 238, 230);
+    font-family: 'Roboto', sans-serif;
+}
+/* Navigation */
+.topsec{
+    background-color: rgb(83, 83, 83);
+    height: 60px;
+    padding-top: 40px;
+    padding-right: 40px;
+}
+.topnav{
+    float: right;
+}
+.nav-a{
+    text-decoration: none;
+    color: rgb(209, 205, 205);
+    padding: 10px 20px;
+    border-radius: 8px;
+    font-size: 20px;
+}
+.nav-a:hover{
+    color: rgb(233, 224, 212);
+    background-color: black;
+}
+.flexi{
+    display: flex;
+    margin-bottom: 200px;
+}
+.half-space{
+    width: 50%;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+.opening-top{
+    padding-top: 150px;
+}
+.para{
+    margin-bottom: 50px;
+    font-size: 20px;
+}
+.blue-text{
+    color: rgb(92, 159, 221);
+}
+#scroll{
+    padding-top: 100px;
+    font-size: 20px;
+}
+.profile{
+    width: 60%;
+    padding-top: 50px;
+}
+.explore-img{
+    width: 75%;
+    padding-left: 60px;
+}
+
+.explore-heading{
+    font-size: 50px;
+}
+.opening{
+    border-left: 6px solid crimson;
+    padding-left: 15px;
+    font-family: 'Comfortaa', cursive;
+    font-size: 50px;
+}
+.button{
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(241, 239, 228);
+    background-color: rgb(74, 149, 199);
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.button:hover{
+    padding: 8px 18px;
+    background-color: rgb(27, 130, 199);
+    border: 2px solid rgb(0, 0, 0);
+}
+.top-padding{
+    padding-top: 70px;
+    padding-right: 50px;
+}
+.three-slides{
+    width: 33%;
+    padding: 20px 60px;
+    margin-left: 40px;
+    margin-right: 40px;
+    border-radius: 25px;
+    transition: .7s all;
+}
+.three-slides:hover{
+    box-shadow: 7px 7px 50px rgba(0, 0, 0, 0.651);
+    transform: scale(1.02);
+}
+.slide-1{
+    background-color: rgb(248, 222, 184);
+    
+}
+.slide-2{
+    background-color: rgb(234, 228, 252);
+}
+.slide-3{
+    background-color: rgb(214, 221, 235);
+}
+.three-il{
+    width: 40%;
+}
+.mission-mid{
+    text-align: center;
+    font-size: 50px;
+}
+footer{
+    background-color: rgb(66, 65, 65);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+footer h2{
+    font-size: 30px;
+    color: rgb(243, 243, 233);
+    font-family: 'Comfortaa', cursive;
+}
+footer p{
+    font-size: 17px;
+    color: rgb(233, 237, 243);   
+}
+.bg-1{
+    background-image: url(images/shapes/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 38%;
+}
+.bg-2{
+    background-image: url(images/shapes/bg-2.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 40%;
+}
